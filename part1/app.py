@@ -13,8 +13,10 @@ def main() -> None:
     #   4. Welcome To Cloud Computing Course - Fall 1405
     #
     # You do not need to import the package you put in requirements.txt.
-    raise NotImplementedError("TODO: print the four lines")
-
+    print("Mohammad amin")
+    print("Sharabloo")
+    print("40231030")
+    print("Welcome To Cloud Computing Course - Fall 1405.")
 
 if __name__ == "__main__":
     main()
